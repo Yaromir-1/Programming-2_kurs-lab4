@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\Яромир\Desktop\Lab 4\Lab 4\Game.cpp(21,16): warning C4154: удаление массива; выполнено преобразование к указателю
+C:\Users\Яромир\Desktop\Lab 4\Lab 4\Game.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Яромир\Desktop\Lab 4\Lab 4\Game.cpp(58,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Яромир\Desktop\Lab 4\Lab 4\Game.cpp(65,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Яромир\Desktop\Lab 4\Lab 4\Game.cpp(71,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab 4.cpp
+  Player.cpp
+  Создание кода...
+  Lab 4.vcxproj -> C:\Users\Яромир\Desktop\Lab 4\Debug\Lab 4.exe
